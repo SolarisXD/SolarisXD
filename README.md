@@ -44,7 +44,7 @@
 <br>
 <hr>
 
-<h3 align="center">🧐 More About Me</h3>
+<h2 align="center">🧐 More About Me</h2>
 
 <ul align="center">
   🔭 Currently working on: <b>Ledger App and a Personal Assistant</b><br>
