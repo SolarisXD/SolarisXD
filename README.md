@@ -53,7 +53,7 @@
   👨🏻‍💻 Most of my projects live here on <a href="https://github.com/SolarisXD">GitHub</a><br>
   🎨 Designing in Figma + experimenting with SVG animations<br>
   💬 Always happy to talk tech — feel free to reach out on <a href="https://www.linkedin.com/in/rahulgehlot/">LinkedIn</a><br>
-  📄 Curious? <a href="https://drive.google.com/file/d/1nuniR4tzKA5EyTLcjYQqJfcjusi3Lcbj/view?usp=sharing">Check out my Resume</a><br>
+  📄 Curious? <a href="https://github.com/SolarisXD/Resume/blob/main/Rahul-Gehlot-Resume.pdf">Check out my Resume</a><br>
 </ul>
 
 <hr>
