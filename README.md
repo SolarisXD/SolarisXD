@@ -38,6 +38,7 @@
   🔬 Currently pursuing B.Tech in <b>Computer Science (AI & ML)</b> from <b>VIT Bhopal University</b>  
   💻 I’m building a <b>very personal personal assistant</b>  
   📚 On the side, I love reading fantasy & fiction and watching animes.
+  <br>
   💬 Ask me anything on <a href="https://github.com/SolarisXD/SolarisXD/issues">GitHub Discussions</a> or <a href="mailto:rahulgehlot4544@gmail.com">drop a mail</a>  
 </p>
 
