@@ -122,7 +122,7 @@
   <a href="https://github.com/SolarisXD/SwapHub">
     <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=SolarisXD&repo=SwapHub&theme=react&border_color=61dafb&border_radius=10" />
   </a>
-  <a href="https://github.com/SolarisXD/Spelldrake.github.io">
+  <a href="https://github.com/SolarisXD/ResuMatch-Pro">
     <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=SolarisXD&repo=Spelldrake.github.io&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
