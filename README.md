@@ -99,7 +99,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolarisXD&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarisXD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width="32%" />
 </div>
 
@@ -120,13 +119,16 @@
 
 <div align="center">
   <a href="https://github.com/SolarisXD/Hisaab-Pro">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=SolarisXD&repo=Hisaab-Pro&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="center" height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SolarisXD&repo=Hisaab-Pro&theme=radical&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/SolarisXD/Skillence">
+    <img align="center" height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SolarisXD&repo=Skillence&theme=radical&border_color=61dafb&border_radius=10" />
   </a>
   <a href="https://github.com/SolarisXD/SwapHub">
-    <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=SolarisXD&repo=SwapHub&theme=react&border_color=61dafb&border_radius=10" />
+    <img align="center" height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SolarisXD&repo=SwapHub&theme=radical&border_color=61dafb&border_radius=10" />
   </a>
-  
 </div>
+
 <br/>
 <h4 align="center">
   <a href="https://github.com/SolarisXD?tab=repositories">🔎 Show More 🔍</a>
