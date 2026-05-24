@@ -1,135 +1,72 @@
-<!-- Visitor badge -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SolarisXD.SolarisXD" alt="visitor badge" />
-</p>
+# Hey, I'm Rahul 👋
 
-<!-- Typing animation -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rahul....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+Full-stack Developer · Applied AI · Builder · [Portfolio](https://www.rahulgehlot.me) · [About me](https://www.rahulgehlot.me/about) . [Resume](https://drive.google.com/file/d/1y1JitHduRY4l3JH7r6lQpM_8E8tq3-Z-/view?usp=sharing)
 
-<!-- Contact Badges -->
-<div align="center">
-  <a href="mailto:rahulgehlot6044@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/rahulgehlot/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://dev.to/spelldrake" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Spelldrake" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
-  </a>
-  <a href="https://leetcode.com/u/Spelldrake/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
-  </a>
-</div>
+> B.Tech CSE (AI-ML) at VIT Bhopal, graduating July 2026. I build full-stack web apps and ML systems — sometimes separately, increasingly together.
 
-<!-- About -->
-<p align="center">
-  Hi, I'm <b>RAHUL GEHLOT</b> — a tech enthusiast, self-proclaimed <i>polymath</i> 🧠, and eternal learner!<br><br>
+I shipped [Hisaab Pro](https://github.com/SolarisXD/Hisaab-Pro) — an offline-first double-entry accounting desktop app — to real clients. I built [Skillence](https://github.com/SolarisXD/Skillence) with a custom PyTorch model and then replaced the PyTorch serving layer with pure NumPy in production to cut backend crashes to near-zero. I write a lot of tests — Hisaab Pro has 475 Jest tests, not because someone told me to, but because client financial data has no room for silent bugs.
 
-  🚀 I’m a <b>versatilist</b> who adapts quickly and wears many hats — whether it’s <b>Full Stack Web Developer</b> 🌐, <b>App Developer</b> 📱, <b>ML Engineer</b> 🤖, or even a budding <b>Designer</b> 🎨. I enjoy exploring new tech stacks and leveraging them to build exciting, meaningful projects 🛠️.<br><br>
+---
 
-  🔬 Currently pursuing B.Tech in <b>Computer Science (AI & ML)</b> from <b>VIT Bhopal University</b>  
-  💻 I’m building a <b>very personal personal assistant</b>  
-  📚 On the side, I love reading fantasy & fiction and watching animes.
-  <br>
-  💬 Ask me anything on <a href="https://github.com/SolarisXD/SolarisXD/issues">GitHub Discussions</a> or <a href="mailto:rahulgehlot4544@gmail.com">drop a mail</a>  
-</p>
+## 🔨 What I Ship
 
-<br>
-<hr>
+- **Offline-first desktop apps** — Electron, SQLite WAL, AES-256 encryption, atomic writes
+- **Full-stack web products** — Next.js, React, Node.js, FastAPI, TailwindCSS
+- **ML systems for production** — PyTorch for training, custom NumPy inference for serving
+- **AI-integrated apps** — RAG pipelines, Gemini API, Claude, pgvector, Langfuse tracing
 
-<h2 align="center">🧐 More About Me</h2>
+---
 
-<ul align="center">
-  🔭 Currently working on: <b>Ledger App and a Personal Assistant</b><br>
-  🤝 Open to collaborate on: <b>AI_Models & <b>Something Crazyy!!</b><br>
-  🌱 Actively learning: <b>TypeScript</b><br>
-  👨🏻‍💻 Most of my projects live here on <a href="https://github.com/SolarisXD">GitHub</a><br>
-  🎨 Designing in Figma + experimenting with SVG animations<br>
-  💬 Always happy to talk tech — feel free to reach out on <a href="https://www.linkedin.com/in/rahulgehlot/">LinkedIn</a><br>
-  📄 Curious? <a href="https://github.com/SolarisXD/Resume/blob/main/Rahul-Gehlot-Resume.pdf">Check out my Resume</a><br>
-</ul>
+### 🗂️ Highlighted Work
 
-<hr>
+[**Hisaab Pro**](https://github.com/SolarisXD/Hisaab-Pro) — offline-first double-entry accounting desktop app. AES-256 encrypted SQLite, WAL mode, 475 Jest tests, shipped to real clients across 2 product versions.
 
-<!-- Skills -->
-<h2 align="center">💻 Tech Stack & Tools</h2>
+[**Skillence**](https://github.com/SolarisXD/Skillence) — career platform processing 30K+ job postings. Custom PyTorch model, pure NumPy inference layer (~1ms latency), ML salary predictor across 25+ countries, 692-skill × 894-occupation mapping.
+
+[**SwapHub**](https://github.com/SolarisXD/SwapHub) — campus marketplace for students to buy, sell, donate, and rent items. Express REST APIs, MongoDB, Passport.js auth.
+
+[**This portfolio**](https://github.com/SolarisXD/rahulgehlot.me) — built with Next.js, embedded RAG chatbot using Gemini 1.5 Flash, Supabase pgvector, hybrid search, Langfuse tracing. All free tier.
+
+---
+
+### ⚡ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4956A?style=flat-square&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+---
+
+### 📄 Published Writing
+
+[Why I Wrote 475 Tests for a Desktop Accounting App](https://www.rahulgehlot.me/blog/blog-why-475-tests) — *when the books are wrong, the app doesn't crash. It just lies to you.*
+
+---
+
+### 📊 Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="45" alt="notion logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="photoshop logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="45" alt="kaggle logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="visualstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda logo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolarisXD&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SolarisXD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&bg_color=0D1117&langs_count=6&layout=compact&hide_border=true" />
 </div>
 
-<hr>
+---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarisXD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width="32%" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SolarisXD/SolarisXD/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SolarisXD/SolarisXD/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SolarisXD/SolarisXD/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
-<hr>
-
-<!-- Pinned Repositories -->
-<h2 align="center">👨‍💻 Repositories</h2>
-
-<div align="center">
-  <a href="https://github.com/SolarisXD/Hisaab-Pro">
-    <img align="center" height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SolarisXD&repo=Hisaab-Pro&theme=radical&border_color=61dafb&border_radius=10" />
-  </a>
-  <a href="https://github.com/SolarisXD/Skillence">
-    <img align="center" height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SolarisXD&repo=Skillence&theme=radical&border_color=61dafb&border_radius=10" />
-  </a>
-  <a href="https://github.com/SolarisXD/SwapHub">
-    <img align="center" height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SolarisXD&repo=SwapHub&theme=radical&border_color=61dafb&border_radius=10" />
-  </a>
-</div>
-
-<br/>
-<h4 align="center">
-  <a href="https://github.com/SolarisXD?tab=repositories">🔎 Show More 🔍</a>
-</h4>
+### 🤝 Let's Connect
+ 
+[![Portfolio](https://img.shields.io/badge/rahulgehlot.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rahulgehlot.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulgehlot/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulgehlot6044@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulgehlotxsd)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rahulgehlot)
+ 
+*Open to freelance projects and internships or Jobs. I respond same day.* <img src="https://komarev.com/ghpvc/?username=SolarisXD&label=visitors&color=0e75b6&style=flat" alt="visitor count" align="right" />
