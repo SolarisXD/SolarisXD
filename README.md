@@ -55,8 +55,16 @@ I shipped [Hisaab Pro](https://github.com/SolarisXD/Hisaab-Pro) — an offline-f
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolarisXD&theme=github-dark-blue&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SolarisXD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&bg_color=0D1117&langs_count=6&layout=compact&hide_border=true" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolarisXD&theme=github-dark-blue&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SolarisXD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&bg_color=0D1117&langs_count=6&layout=compact&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
